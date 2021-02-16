@@ -42,7 +42,7 @@
       ## gamil link
     [gmail](https://mail.google.com/mail/u/0/#inbox)
     ## inserting images
-        ![pic](https://github.com/mythilygontla/markdwn-syntax/blob/master/image.jpg)
+        ![image.jpg](https://github.com/mythilygontla/markdwn-syntax/blob/master/image.jpg)
      
     
     
