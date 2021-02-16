@@ -37,12 +37,12 @@
          }
          return 0;
       ```
-      ## link
+  ## link
       [markdown](https://guides.github.com/features/mastering-markdown/)
       ## gamil link
     [gmail](https://mail.google.com/mail/u/0/#inbox)
-    ## inserting images
-        ![image.jpg](https://github.com/mythilygontla/markdwn-syntax/blob/master/image.jpg)
+   ## inserting images
+    ![image](https://github.com/mythilygontla/markdwn-syntax/blob/master/image.jpg)
         
      
     
