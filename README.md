@@ -29,7 +29,13 @@
       fun()
      ```
      ## write  a c program to print hello appssdc
-     printf("hello apsdc");
+     ```python
+     def fun():
+        printf("hello apssdc");
+      ```
+      ```
+      fun()
+      ```
      
     
     
