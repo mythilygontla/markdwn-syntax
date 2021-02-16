@@ -41,8 +41,8 @@
       [markdown](https://guides.github.com/features/mastering-markdown/)
       ## gamil link
     [gmail](https://mail.google.com/mail/u/0/#inbox)
-   ## inserting images
-    ![image](https://github.com/mythilygontla/markdwn-syntax/blob/master/image.jpg)
+   ## inserting ima
+   ![image](https://github.com/mythilygontla/markdwn-syntax/blob/master/image.jpg)
         
      
     
