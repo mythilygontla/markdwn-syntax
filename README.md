@@ -28,6 +28,8 @@
     ```
       fun()
      ```
+     ## write  a c program to print hello appssdc
+     printf("hello apsdc");
      
     
     
