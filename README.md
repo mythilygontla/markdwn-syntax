@@ -20,4 +20,14 @@
     2. EEEB
  2. mythily
     1. vasavi
+    ## code
+    ```python
+    def fun():
+        printf("hello kits eee");
+    ```
+    ```
+      fun()
+     ```
+     
+    
     
